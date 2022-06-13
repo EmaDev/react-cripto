@@ -2,6 +2,7 @@
   "name": "cotizador-cripto",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://emadev.github.io/react-cripto/",
   "dependencies": {
     "@emotion/styled": "^11.6.0",
     "@testing-library/jest-dom": "^5.15.1",
